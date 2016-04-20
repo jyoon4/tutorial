@@ -1,2 +1,3 @@
 git command that a monkey can understand
 adding a new change
+store the status of commit index
