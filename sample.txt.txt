@@ -1,2 +1,3 @@
 git command that a monkey can understand
 adding a new change
+pull get the data from the remote repository
